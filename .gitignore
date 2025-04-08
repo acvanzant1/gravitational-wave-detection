@@ -1,0 +1,52 @@
+# Ignore everything by default
+*
+
+# Allow only core code and config
+!models/
+models/debugging/
+!models/**/*
+!models/1D-CNN Binary Classification/Model 1/*.py
+!models/1D-CNN Binary Classification/Model 1/*.ipynb
+!models/ResNet Binary Classification/Model 1/*.py
+!models/ResNet Binary Classification/Model 1/*.ipynb
+
+# Python, Jupyter, and LaTeX build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.out
+
+# Editor/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data, figures, and extra folders
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.tex
+*.csv
+*.npy
+*.npz
+*.hdf5
+*.json
+*.txt
+*.wav
+*.gz
+*.zip
+
+raw_data_files/
+raw_val_data_files/
+noise/
+LIGO-Detector-Data/
+Literature Review/
+figures/
