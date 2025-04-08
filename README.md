@@ -50,7 +50,7 @@ This work relies on data from the Gravitational Wave Open Science Center (GWOSC)
 
 ## 📄 Final Master’s Thesis
 
-You can view the full thesis document here:  
+You can view my full thesis document here:  
 🔗 [Gravitational Wave Detection Using Deep Learning (View Only)](https://docs.google.com/document/d/12lWyfPhXyMHmYyitk9l8vDl4AnJroP2X9f_7rGCKUAc/edit?usp=sharing)
 
 This paper outlines the development, training, and evaluation of both 1D-CNN and ResNet architectures for classifying gravitational wave signals in realistic LIGO noise, with full compatibility on Apple Silicon hardware.
