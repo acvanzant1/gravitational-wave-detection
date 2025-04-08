@@ -47,3 +47,10 @@ requirements.txt          # Dependency list
 
 
 This work relies on data from the Gravitational Wave Open Science Center (GWOSC) and uses scientific libraries under open-source licenses. All waveform injections are generated via the SEOBNRv2 approximant using PyCBC.
+
+## 📄 Final Master’s Thesis
+
+You can view the full thesis document here:  
+🔗 [Gravitational Wave Detection Using Deep Learning (View Only)](https://docs.google.com/document/d/12lWyfPhXyMHmYyitk9l8vDl4AnJroP2X9f_7rGCKUAc/edit?usp=sharing)
+
+This paper outlines the development, training, and evaluation of both 1D-CNN and ResNet architectures for classifying gravitational wave signals in realistic LIGO noise, with full compatibility on Apple Silicon hardware.
