@@ -48,7 +48,7 @@ requirements.txt          # Dependency list
 
 This work relies on data from the Gravitational Wave Open Science Center (GWOSC) and uses scientific libraries under open-source licenses. All waveform injections are generated via the SEOBNRv2 approximant using PyCBC.
 
-## 📄 Final Master’s Thesis
+## 📄 Master’s Thesis
 
 You can view my full thesis document here:  
 🔗 [Gravitational Wave Detection Using Deep Learning (View Only)](https://docs.google.com/document/d/12lWyfPhXyMHmYyitk9l8vDl4AnJroP2X9f_7rGCKUAc/edit?usp=sharing)
