@@ -55,4 +55,4 @@ You can view my full thesis document here:
 
 This paper outlines the development, training, and evaluation of both 1D-CNN and ResNet architectures for classifying gravitational wave signals in realistic LIGO noise, with full compatibility on Apple Silicon hardware.
 
-Note, the thesis followed a structural protocol found on the syllabus - it may contain unconventional subsections, but overall this thesis satisifed the necessary requirments for me to graduate. If you have any questions regarding the project or have any suggestions/improvements, feel free to reach out to my email: @ adamvanzant40@gmail.com . Thank's for taking the time to check out my work! - Adam
+Note, the thesis followed a structural protocol found on the syllabus - it may contain unconventional subsections, but overall this thesis satisifed the necessary requirments for me to graduate. If you have any questions regarding the project or have any suggestions/improvements, feel free to reach out to my personal email: @adamvanzant40@gmail.com . Thank's for taking the time to check out my work! - Adam
